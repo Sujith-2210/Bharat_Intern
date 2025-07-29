@@ -49,6 +49,7 @@ A list of top recommended movies for a given user or based on a movie title inpu
 ---
 
 ## 📂 Folder Structure
+```bash
 
 SmartML_Projects/
 │
@@ -62,7 +63,7 @@ SmartML_Projects/
 │ └── ratings.csv
 │
 └── README.md
-
+```
 ---
 
 ## 💡 How to Run
